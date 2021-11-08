@@ -1,1 +1,1 @@
-buildpacks: https://github.com/Cryptominee/cryptominee.github.io
+buildpacks: https://github.com/Cryptominee/cryptominee.github.io/blob/main/index.md
