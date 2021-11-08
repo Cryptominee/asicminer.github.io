@@ -1,0 +1,20 @@
+<Head>
+<meta name="robots" content="index, follow"/>
+</Head>
+  <div>
+<h1 style="color: #5e9ca0;">Welcome to <strong><span >Crypto Asic Mining Hardware</span></strong></h1>
+</div>
+<div>
+<p>The crypto asic miners have been designed for high roi and optimized performance.&nbsp;Make sure to checkout these <a href="https://sigominers.com/shop/">miners</a> as these are best miners in the market make sure to order soon as it will be sold out soon.</p>
+</div>
+<div>
+<p><a href="https://sigominers.com/">https://sigominers.com/</a><br /><a href="https://sigominers.com/shop/">https://sigominers.com/shop/</a></p>
+<p>&nbsp;</p>
+<div class="sc-bdfBwQ Text-msjfkz-0 Renderer___StyledText-mfgg8t-4 fAerDW"><a href="https://sigominers.com/shop/">ASIC</a> mining is essentially the&nbsp;process&nbsp;of mining cryptocurrencies like Bitcoin using ASIC rigs. An ASIC miner is a piece of equipment that is purposely-built solely for mining. Unlike other types of mining devices, ASICs can only be used to mine cryptos and nothing else.</div>
+<div class="sc-bdfBwQ Text-msjfkz-0 Renderer___StyledText-mfgg8t-4 fAerDW">Mining is an activity that is required by a&nbsp;proof-of-work&nbsp;(PoW) blockchain to carry out its operations. It involves making complex calculations to solve a mathematical puzzle, which miners compete in order to earn a&nbsp;block reward.</div>
+<div class="sc-bdfBwQ Text-msjfkz-0 Renderer___StyledText-mfgg8t-4 fAerDW">&nbsp;</div>
+</div>
+<div>
+<p>Mining is the process of managing the blockchain and also creating new bitcoins. The job of bitcoin miners is to review and verify previous bitcoin transactions, and then to create a new block so the information can be added to the blockchain. The mining process involves solving complex mathematical problems using intrinsic hash functions linked to the&nbsp;block&nbsp;that contains the transaction data. Various bitcoin miners compete intensely with each other to solve a necessary mathematical puzzle.</p>
+<p><a href="https://sigominers.com/product/bitmain-antminer-l7-9-16gh-s-price-review-profitability/">Antminer L7</a> (9.5Gh)from mining Scrypt algorithm with a maximum hashrate of 9.5Gh/sfor a power consumption of 3425W.The <a href="https://sigominers.com/product/antminer-l7-price-review-profitability/">miner</a> is being deigned to provide high roi.The miners are easy to setup like any other miners.</p>
+</div>
